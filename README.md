@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am a 4th-year Electrical Engineering student.
+
+- 🚀 I’m currently working on on my capstone project, **Social Robot MiRo-E**, which aims to bring engaging therapeutic activities to young patients. This project focuses on enhancing patient interaction and support through robotics and technology.
+
+- 📁 Check out my [portfolio](https://jasmine-portfolio.github.io/My-Portfolio/) where you can find detailed descriptions, images, and videos of my projects.
 
 <!--
 **jasmine-portfolio/jasmine-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
